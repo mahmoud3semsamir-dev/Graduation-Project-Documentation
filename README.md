@@ -1,4 +1,41 @@
+
 # 📊 LTE Network Performance Analysis & Capacity Estimation via Power BI
+An advanced telecommunications data analytics framework developed as an Engineering Graduation Project. This repository contains the complete end-to-end data engineering pipeline, custom **DAX formulations**, and multi-dimensional visualization dashboards designed to evaluate and compare 4G LTE Key Performance Indicators (KPIs) across diverse geographical environments (**Urban, Rural, and Highway**) using real-world Drive Test telemetry.
+
+---
+
+## 🏛️ Academic Profile
+
+* **Institution:** Menofia University, Faculty of Electronic Engineering
+* **Department:** Electronics and Electrical Communications Engineering
+* **Academic Year:** 2025 – 2026
+* **Project Advisor:** Prof. Dr. Saied M. Abd El-atty
+
+---
+
+## 👥 Project Team & Contributors
+
+This project was successfully designed and executed by the following researchers:
+
+* **Mahmoud Asem Samir Riad**
+* **Mohamed Ali Said**
+* **Ziad Ashraf El-Sayed**
+* **Anas Essam El-Sayed**
+* **Mohamed Yasser Mohamed**
+* **Azza Yasser Abdel-Moati**
+* **Salma Allam Mostafa**
+
+---
+
+## 🎯 Project Objectives & Concept
+
+The core objective of this project is to bridge the gap between raw cellular telemetry data and actionable Radio Frequency (RF) optimization intelligence. By conducting statistical drive-test parsing, the framework allows engineers to:
+* Evaluate spectral efficiency, latency constraints, and throughput capacities.
+* Benchmark comparative operator standings (Vodafone, Etisalat, WE) across multiple operational bands (1800, 2100, 2500 MHz).
+* Analyze structural channel degradation caused by physical environment constraints (Shadowing in Urban cores, high Doppler shifts on Highways, and severe Path Loss boundaries in Rural zones).
+
+---
+### 4G-LTE-Network-Performance-Analyzer
 
 This repository contains the data analytics framework, data engineering steps, and custom **DAX formulations** developed for our graduation project. The core objective is to evaluate and compare cellular network Key Performance Indicators (KPIs) across diverse geographical regions (**Urban, Rural, and Highway**) and theoretically model node capacity using **Shannon's Theorem**.
 
@@ -45,7 +82,7 @@ The dataset contains three environments:
 > Add your first screenshot here:
 
 ---<p align="center">
-  <img src="./project//images/Screenshot 2026-07-09 033816.png" width="750">
+  <img src="./images/Screenshot 2026-07-09 033816.png" width="750">
 </p>
 ---
 
@@ -125,7 +162,7 @@ _All Measures
 > Add your dashboard screenshot here:
 
 ---<p align="center">
-  <img src="./project//images/Screenshot 2026-07-09 193351.png" width="750">
+  <img src="./images/Screenshot 2026-07-09 193351.png" width="750">
 </p>
 
 ---
@@ -201,7 +238,7 @@ The dashboard allows users to:
 Overall, the dashboard provides a user-friendly platform for analyzing LTE network performance, helping engineers quickly identify trends, evaluate network quality, and improve coverage efficiency.
 
 ---<p align="center">
-  <img src="./project/images/Screenshot 2026-07-09 195237.png" width="750">
+  <img src="./images/Screenshot 2026-07-09 195237.png" width="750">
 </p>
 
 ### task 3:
@@ -241,7 +278,7 @@ This section of the dashboard evaluates network throughput performance (**Link C
 
 
 ---<p align="center">
-  <img src="./project/images/Screenshot 2026-07-10 033059.png" width="750">
+  <img src="./images/Screenshot 2026-07-10 033059.png" width="750">
 </p>
 
 ## 📊 Dashboard 3: Environmental Performance Analysis
@@ -270,7 +307,7 @@ This section analyzes how different operational environments (**Urban, Highway, 
   * **Rural:** Exhibits significant degradation in $SINR$ and $RSRP$ (becoming more negative), pinpointing areas suffering from heavy path loss due to long-distance propagation away from the nearest base station.
 
   ---<p align="center">
-  <img src="./project/images/Screenshot 2026-07-10 034022.png" width="750">
+  <img src="./images/Screenshot 2026-07-10 034022.png" width="750">
 </p>
 
 ## 💡 Engineering Recommendations & Insights
@@ -290,7 +327,3 @@ This framework successfully bridges the gap between raw drive-test telemetry and
 ## 👥 Project Team & Contributors
 
 * **Mahmoud Asem** - *Electronics & Electrical Communications Engineering Department, Menofia University.*
-* **Project Team Members**
-* **Supervised by:** [Prof. Dr. Saied M. Abd El-atty]
-
----
