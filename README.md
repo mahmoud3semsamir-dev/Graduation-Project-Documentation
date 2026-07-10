@@ -322,6 +322,3 @@ Based on the multi-dimensional analysis conducted across the three dashboards, t
 
 This framework successfully bridges the gap between raw drive-test telemetry and actionable RF engineering intelligence. By translating standard telecom indicators ($RSRP, RSRQ, RSSI, SINR$) into dynamic Power BI visualizations, network operators can seamlessly diagnose coverage holes, benchmark competitor performance, and mathematically map achievable link capacities via Shannon's Theorem.
 
-## 👥 Project Team & Contributors
-
-* **Mahmoud Asem** - *Electronics & Electrical Communications Engineering Department, Menofia University.*
