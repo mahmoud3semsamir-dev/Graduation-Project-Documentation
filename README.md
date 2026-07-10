@@ -150,7 +150,7 @@ _All Measures
 
 ---
 
-## 📊 Dashboard Visualizations
+## 📊 Dashboard 1:
 
 - KPI Cards
 - Clustered Column Charts
@@ -219,9 +219,8 @@ The dashboard allows users to:
 
 The project is built using **Microsoft Power BI**, **Power Query**, and **DAX** to provide an easy-to-use and interactive dashboard for LTE network performance evaluation.
 
-### Task 2 :
 
-# 📊 Dashboard 1 :
+# 📊 Dashboard 2 :
 
 The final dashboard provides an interactive and comprehensive overview of 4G LTE network performance by transforming raw drive test data into meaningful visual insights. It enables users to evaluate network coverage, signal quality, and overall performance through dynamic charts, KPI cards, and interactive filters.
 
@@ -241,9 +240,8 @@ Overall, the dashboard provides a user-friendly platform for analyzing LTE netwo
   <img src="./images/Screenshot 2026-07-09 195237.png" width="750">
 </p>
 
-### task 3:
 
-## 📊 Dashboard 2: Link Capacity & Timing Advance Analysis
+## 📊 Dashboard 3: Link Capacity & Timing Advance Analysis
 
 This section of the dashboard evaluates network throughput performance (**Link Capacity**) against signal quality (**SINR**) and geographical distance proxies (**Timing Advance**). It also provides a benchmark comparison across multiple network operators.
 
@@ -281,7 +279,7 @@ This section of the dashboard evaluates network throughput performance (**Link C
   <img src="./images/Screenshot 2026-07-10 033059.png" width="750">
 </p>
 
-## 📊 Dashboard 3: Environmental Performance Analysis
+## 📊 Dashboard 4 : Environmental Performance Analysis
 
 This section analyzes how different operational environments (**Urban, Highway, and Rural**) physically impact cellular distribution, signal attenuation, quality degradation, and overall capacity.
 
